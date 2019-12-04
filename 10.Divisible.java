@@ -4,7 +4,7 @@ Ingresa 4 y 28, debe imprimir “28 es divisible por 4”. Se deberá validar
 que los números ingresados se encuentren entre 0 y 100.*/
 
 
-package divisiblenumber2;
+package divisiblenumber3;
 import java.util.Scanner;
 
 
